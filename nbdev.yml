@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "manuelmai"
+  site-url: "https://maimanuel.github.io/manuelmai"
+  description: "Website"
+  repo-branch: main
+  repo-url: "https://github.com/maimanuel/manuelmai"
